@@ -1,0 +1,8 @@
+#images {
+    filter: grayscale(1.0) !important;
+    -webkit-filter: grayscale(1.0) !important;
+}
+
+#images:hover {
+    filter: grayscale(0) !important;
+}
